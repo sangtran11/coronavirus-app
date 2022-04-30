@@ -1,0 +1,27 @@
+.box-item {
+  .box-body {
+    font-size: 14px;
+    font-weight: 600;
+    color: #666666;
+    .box-title {
+      color: #333;
+    }
+    .box-subtitle {
+      font-size: 1.8rem;
+    }
+    .box-text {
+      .number-size {
+        font-size: 24px;
+      }
+    }
+  }
+  .recovery-color {
+    color: #8aca2b;
+  }
+  .deaths-color {
+    color: #e60909;
+  }
+  .confirmed-color {
+    color: #aaa;
+  }
+}

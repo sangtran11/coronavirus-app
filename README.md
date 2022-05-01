@@ -1,10 +1,8 @@
 ### `Instruction`
 
-Clone source code and run: "npm install" to install node modules
+1.Clone source code and run: "npm install" to install node modules
 
-### `npm start`
-
-Runs the app in the development mode.\
+2."npm start" to open the app in the development mode
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 List of Completed Features:

@@ -1,8 +1,10 @@
 ### `Instruction`
 
-1.Clone source code and run: "npm install" to install node modules
+1.Clone source code: "git clone https://github.com/sangtran11/coronavirus-app.git" or download a ZIP file.
 
-2.Run: "npm start" to open the app in the development mode
+2.Go into the "coronavirus-app" folder and run: "npm install" to install a node modules.
+
+3.Run: "npm start" to open the app in the development mode
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 List of Completed Features:
